@@ -1,0 +1,12 @@
+
+body {
+    text-align: center;
+    padding: 20px;
+    color:rgb(34, 34, 34);
+    background-color:antiquewhite;
+}
+
+button {
+    font-size: 16px;
+    padding: 10px 20px;
+}
